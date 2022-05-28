@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nilsound.github.io</id>
+    <title>moonlight</title>
+    <updated>2022-05-28T06:32:34.591Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nilsound.github.io"/>
+    <link rel="self" href="https://nilsound.github.io/atom.xml"/>
+    <subtitle>Go go Magical Girls! Marching Towards the Moon</subtitle>
+    <logo>https://nilsound.github.io/images/avatar.png</logo>
+    <icon>https://nilsound.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, moonlight</rights>
+    <entry>
+        <title type="html"><![CDATA[Go go Magical Girls! Marching Towards the Moon]]></title>
+        <id>https://nilsound.github.io/post/go-go-magical-girls-marching-towards-the-moon/</id>
+        <link href="https://nilsound.github.io/post/go-go-magical-girls-marching-towards-the-moon/">
+        </link>
+        <updated>2022-05-28T06:06:10.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>你好，远道而来的魔法少女们。</strong></p>
+<p>此特殊通信论坛——MOONLIGHTblog——是仅对满足特殊条件的月面基地魔法少女开放的数据展示台。</p>
+<p>本页面不设置用户名，不设置密码，无固定连接，无访问记录，禁止数据追踪，禁止AI阅读。</p>
+<p><strong>禁止人类观看。</strong></p>
+<p>一切都是隐形与未知的。<br>
+正如那从1969年蔓延至今的月之潮汐。<br>
+我们只对拥有资格者展示这一切。</p>
+<p>你做好准备了吗？</p>
+<p><em>你好，你好，许久不见。</em></p>
+<p><em>你听到那首歌谣了吗？</em></p>
+]]></content>
+    </entry>
+</feed>
